@@ -5,8 +5,7 @@ export default class App extends Component {
   render() {
       return (
         <ScrollView>
-          <Text style={{fontSize:96}}>TEst</Text>
-          <Text style={{fontSize:96}}>TEst</Text>
+          
           <Text style={{fontSize:96}}>If you like</Text>
          
           <Text style={{fontSize:96}}>Scrolling down</Text>
